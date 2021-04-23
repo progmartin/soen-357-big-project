@@ -1,0 +1,68 @@
+nucleus
+dna
+ribosomes
+soft er
+rough er
+golgi aparatus
+
+
+question 1: whats does the nucleus contain
+A.DNA
+B.ribosomes
+C.soft ER
+D.Rough ER
+
+question 2: which one is true
+A.Ribosomes are bigger than the nucleus
+B.the nucleus is bigger than the cell membrane
+C.the cell membrane is smaller than the nucleus
+D.ribosomes are smaller than the nucleus
+
+question 3: which of the following organelles have ribosomes on its walls
+A.nucleus
+B.rough ER
+C.smooth ER
+D.golgi apparatus
+
+question 4: wich of the following organelle is right next to the nucleus
+A.golgi apparatus
+B.smooth ER
+C.rough ER
+D.mitochondria
+
+question 5: wich of the following organelle is right next to the smooth ER
+A.rough ER
+B.nucleus
+C.cell membrane
+D.mitochondria
+
+question 6: which organelle is bigger
+A.ribosomes
+B.nucleus
+C.golgi apparatus
+D.cell membrane
+
+question 7: wich organelle is the smallest
+A.ribosomes
+B.nucleus
+C.golgi apparatus
+D.cell membrane
+
+question 8: which organelle is sandwiched inbetween the nucleus and the smooth ER
+A.cell membrane
+B.rough ER
+C.mitochondria
+D.none of the above
+
+question 9: if X is the size the nucleus and Y is the size of the cell membrane, then X/Y is :
+A.bigger than 1
+B.smaller than 1
+C.equal to 1
+D.undefined
+
+question 10: if X is the size of the ribosomes and Y is the size of the nucleus, than Y/X is:
+A.bigger than 1
+B.smaller than 1
+C.equal to 1
+D.undefined
+

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30bb578a0793d094187110ea21ee9e0e, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: 'Question 1: Where is the DNA in the cell?  '
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: b32c7e90107c32344ab0d6a426c7eda6, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - 'A.inside the nucleus. '
+    - 'B.inside ribosomes.  '
+    - 'C.inside the Golgi apparatus.  '
+    - 'D.inside the mRNA. '
+    correctAns: 'A.inside the nucleus. '
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'Question 2: What do ribosomes do?'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: eb4f0e4b8d986ee49aa7a8e1066a3046, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.nothing
+    - B.they translate DNA
+    - C.they translate protein from rRNA
+    - D.they translate protein from DNA
+    correctAns: C.they translate protein from rRNA
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 3: how do cells transfer protein outside their own cell? '
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 3622013e3ace2eb438fe58201563ed80, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - 'A.They do it through vesicles formed by the Golgi apparatus '
+    - 'B.they let ribosomes do it '
+    - 'C.they nucleus is responsible '
+    - 'D.Through the smooth E R '
+    correctAns: 'A.They do it through vesicles formed by the Golgi apparatus '
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 4: what does the Golgi apparatus do?'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 4dd86c271403cbb4caf3a36c34ec023c, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.create ribosomes
+    - B.hold ribosomes
+    - C.buds off proteins created from ribosomes
+    - D.holds DNA
+    correctAns: C.buds off proteins created from ribosomes
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 5: the smooth ER holds'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: e1b0ec0ec3efee54597672009923bfc3, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A. ribosomes
+    - 'B. DNA '
+    - 'C. the nucleus '
+    - 'D. mitochondria '
+    correctAns: A. ribosomes
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 6: what organelle turns sugar to ATP '
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: bc312e046a3b7a047ae0efbcaeb4c45e, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - 'A. microfilaments  '
+    - 'B. nucleus '
+    - 'C. mitochondria   '
+    - 'D. ribosomes   '
+    correctAns: 'C. mitochondria   '
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'questions 7: organels are:'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 99add196e1e2f0849bcd6f22404743fa, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.organs
+    - B.subunit of the cell
+    - C.ribosomes
+    - D.only the nucleus
+    correctAns: B.subunit of the cell
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 8: mRNA comes from'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 6a774d0d969b79a44a40c43358d625ed, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.the DNA
+    - B.the ribosomes
+    - C.the cytoplasm
+    - D.the cytosol
+    correctAns: A.the DNA
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 9: rough ER...'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: e3d5d9f34990e9e41a39001e796a0f53, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A. does not hold ribosomes on its wall
+    - B.holds DNA on its walls
+    - C.holds ribosomes on its walls
+    - 'D.holds proteins on its walls '
+    correctAns: C.holds ribosomes on its walls
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 10: the ER  lumen...'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: adfeef71421ad734889fa0b162d812d1, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A. is inside the ER
+    - 'B. is outside the ER '
+    - C.buds off proteins created from ribosomes
+    - D. is inside the ribosome
+    correctAns: A. is inside the ER
+    isAnswered: 0
+    audioPlayed: 0

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30bb578a0793d094187110ea21ee9e0e, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: 'question 1: what does the nucleus contain'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: aced64e2d4bfaed46910ba62e864e27c, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.DNA
+    - B.ribosomes
+    - C.soft ER
+    - 'D.Rough ER '
+    correctAns: A.DNA
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 2: which one is true'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 007f7b24108108f46b127e0045a7fedd, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.Ribosomes are bigger than the nucleus
+    - B.the nucleus is bigger than the cell membrane
+    - C.the cell membrane is smaller than the nucleus
+    - D.ribosomes are smaller than the nucleus
+    correctAns: D.ribosomes are smaller than the nucleus
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 3: which of the following organelles have ribosomes on
+      its walls'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: fae1096292e707646899760c75f93fe7, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.nucleus
+    - B.rough ER
+    - C.smooth ER
+    - D.golgi apparatus
+    correctAns: B.rough ER
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 4: which of the following organelle is right next to the
+      nucleus'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 139654a4daa9e4d499d11883542b5103, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.golgi apparatus
+    - B.smooth ER
+    - C.rough ER
+    - D.mitochondria
+    correctAns: C.rough ER
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 5: which of the following organelle is right next to the
+      smooth ER'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 3ccdc73d89c66954c84118d45d434386, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.rough ER
+    - B.nucleus
+    - C.cell membrane
+    - D.mitochondria
+    correctAns: A.rough ER
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 6: which organelle is bigger'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 20aa236248391ad498935e7abd9c3f06, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.ribosomes
+    - B.nucleus
+    - C.Golgi apparatus
+    - D.cell membrane
+    correctAns: D.cell membrane
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 7: wich organelle is the smallest'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 8fe4bedf37190ce4aa0a5803d58ca822, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.ribosomes
+    - B.nucleus
+    - C.ribosomes
+    - 'D.cell membrane '
+    correctAns: A.ribosomes
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 8: which organelle is sandwiched inbetween the nucleus
+      and the smooth ER'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: f77c9f76ad8947546bfc9c6fd2af3355, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.cell membrane
+    - B.rough ER
+    - C.mitochondria
+    - D.none of the above
+    correctAns: B.rough ER
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 9: if X is the size of the nucleus and Y is the size of
+      the cell membrane, then X/Y is :'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: 8f3ec4205ff9cb74688582b66507ef0f, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.bigger than 1
+    - B.smaller than 1
+    - C.equal to 1
+    - D.undefined
+    correctAns: B.smaller than 1
+    isAnswered: 0
+    audioPlayed: 0
+  - questionInfo: 'question 10: if X is the size a ribosomes and Y is the size of
+      the nucleus, than Y/X is:'
+    questionType: 3
+    questionsImg: {fileID: 0}
+    questionClip: {fileID: 8300000, guid: c7d3861070f566e4186e4c4628062971, type: 3}
+    questionVideo: {fileID: 0}
+    options:
+    - A.bigger than 1
+    - B.smaller than 1
+    - C.equal to 1
+    - D.undefined
+    correctAns: A.bigger than 1
+    isAnswered: 0
+    audioPlayed: 0
