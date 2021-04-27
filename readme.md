@@ -1,1 +1,1 @@
-[final report](https://docs.google.com/document/d/1fH3RsMy04rsaYNOkFfGRzeG5sgFC1vzaKWQNVHccDOI/edit?usp=sharing)  
+[final report](https://github.com/progmartin/soen-357-big-project/blob/main/final%20report.pdf)  
